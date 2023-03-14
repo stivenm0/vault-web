@@ -1,0 +1,41 @@
+[
+  {
+    "id": 0,
+    "name": "TEMPMAIL",
+    "description":"",
+    "tags": [],
+    "link": "https://temp-mail.org/es/"
+    
+  },
+  {
+    "id": 1,
+    "name": "Tellows",
+    "description": "Identifica llamadas de posibles estafas.",
+    "link": "https://www.tellows.co/"
+  },
+  {
+    "id": 2,
+    "name": "Virus Total",
+    "description":"",
+    "tags": [],
+    "link": "https://www.virustotal.com/gui/home/upload"
+  },
+  {
+    "id": 3,
+    "name": "Online Video Converter",
+    "description":"",
+    "tags": [],
+    "link": "https://www.tellows.co/"
+  },
+  {
+    "id": 4,
+    "name": "https://www.ilovepdf.com/es",
+    "description":"",
+    "tags": [],
+    "link": "https://www.ilovepdf.com/es"
+  }
+
+  
+
+  
+]
