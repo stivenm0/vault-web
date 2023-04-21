@@ -1,41 +1,54 @@
-[
-  {
+[{
+  "Inteligencia Artificial": [
+     {
+    "id": 0,
+    "name": "Perplexity",
+    "description":"Perplexity es un motor de búsqueda que utiliza inteligencia artificial conversacional para proporcionar respuestas más fluidas a los usuarios. Además, utiliza fuentes actualizadas en tiempo real para respaldar sus respuestas.",
+    "link": "https://www.perplexity.ai/"
+    }
+
+  ],
+ 
+  "Variedades":[
+    {
     "id": 0,
     "name": "TEMPMAIL",
-    "description":"",
-    "tags": [],
+    "image": "https://temp-mail.org/images/favicon.ico",
+    "description":"Este servicio ofrece la posibilidad de recibir correos electrónicos en una dirección temporal que se eliminará automáticamente después de 10 minutos. Tiene version gratuita muy completa.",
     "link": "https://temp-mail.org/es/"
-    
   },
   {
     "id": 1,
     "name": "Tellows",
-    "description": "Identifica llamadas de posibles estafas.",
+    "description": "Tellows proporciona información para identificar llamadas seguras o sospechosas mediante el uso de su comunidad global.",
     "link": "https://www.tellows.co/"
   },
   {
     "id": 2,
     "name": "Virus Total",
-    "description":"",
-    "tags": [],
+    "description":"Te ayuda a detectar virus en webs, PDFs, apks, archivos de musica, texto… es gratuita.",
     "link": "https://www.virustotal.com/gui/home/upload"
   },
   {
     "id": 3,
     "name": "Online Video Converter",
-    "description":"",
-    "tags": [],
-    "link": "https://www.tellows.co/"
+    "description":"Esta web permite descargar videos de Youtube ya sea en formato mp3 o mp4. No permite elegir calidad de descarga.",
+    "link": "https://es.onlinevideoconverter.pro/116/"
   },
   {
     "id": 4,
-    "name": "https://www.ilovepdf.com/es",
-    "description":"",
-    "tags": [],
-    "link": "https://www.ilovepdf.com/es"
+    "name": "ilovePDF",
+    "description":"ilovePDF es una plataforma en línea gratuita y sencilla de utilizar que brinda diversos servicios para trabajar con archivos en formato PDF. Permite unir, dividir, comprimir y convertir archivos PDF de manera eficiente.",
+    "link": "https://www.ilovepdf.com/"
+  },
+  {
+    "id": 5,
+    "name": "Squoosh",
+    "description":"Squoosh es una herramienta de optimización de imágenes avanzada que te permite reducir el tamaño de tus imágenes y comparar diferentes códecs de imagen directamente en tu navegador.",
+    "link": "https://squoosh.app/"
   }
-
-  
-
-  
+ 
 ]
+ 
+  
+}]
